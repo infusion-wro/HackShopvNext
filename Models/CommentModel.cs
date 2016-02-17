@@ -14,5 +14,6 @@ namespace HackShopvNext.Models
         public DateTime Date { get; set; }
         
     }
+
 }
 
